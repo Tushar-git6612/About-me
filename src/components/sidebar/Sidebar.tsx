@@ -1,7 +1,6 @@
 import { Fragment } from "react";
 
 function Sidebar() {
-  
   const sideBarToggle = (e: any): void => {
     const sideList: any = document.querySelector(".sidebar");
     if (sideList) {
