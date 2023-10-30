@@ -11,6 +11,14 @@
 # production
 /build
 
+# some files
+src/logo.svg
+src/react-app-env.d.ts
+src/setupTests.ts
+src/reportWebVitals.ts
+src/App.test.tsx
+
+
 # misc
 .DS_Store
 .env.local
