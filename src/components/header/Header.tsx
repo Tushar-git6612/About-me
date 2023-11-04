@@ -32,7 +32,7 @@ const Header: React.FC<myHeader> = (props) => {
           className="px-3"
           style={{ height: "90vh", zIndex: "9", position: "relative" }}
         >
-          <div className="d-flex p-3 h-100 justify-content-start align-items-center">
+          <div className="d-flex p-3 h-100 justify-content-end align-items-center">
             <div className="ms-4 d-flex flex-column p-2">
               <div className="">
                 <p className="text-capitalize m-0 p-0 text-white">

@@ -4,7 +4,7 @@ import reactCode from "../../Images/reactCode.jpg";
 const Image = () => {
   return (
     <Fragment>
-      <img src={reactCode} alt="" className="w-100" style={{objectFit:"fill"}} />
+      <img src={reactCode} alt="" className="w-100 h-100" style={{objectFit:"fill"}} />
     </Fragment>
   )
 }

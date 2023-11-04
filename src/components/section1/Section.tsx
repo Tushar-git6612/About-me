@@ -52,7 +52,7 @@ const Section: React.FC<mySection> = (props) => {
   return (
     <Fragment>
       <section
-      id="about"
+        id="about"
         className="p-md-5 pt-3 aboutSeciton"
         style={{ background: "radial-gradient(circle, #216478, #2E6D80)" }}
       >
