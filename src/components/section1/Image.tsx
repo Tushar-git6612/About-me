@@ -1,4 +1,5 @@
 import{Fragment, memo} from 'react';
+// import reactCode from "../../Images/reactCode.jpg";
 import reactCode from "../../Images/reactCode.jpg";
 
 const Image = () => {
